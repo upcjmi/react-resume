@@ -2,7 +2,6 @@
   "name": "react-resume-builder",
   "version": "0.1.0",
   "description": "just a simple react resume builder",
-  "private": true,
   "author": "alhaqhassan",
   "repository": {
     "type": "git",
