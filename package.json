@@ -20,6 +20,7 @@
     "react-dom": "^16.10.2",
     "react-router-dom": "^5.1.2"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
